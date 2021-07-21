@@ -1,0 +1,32 @@
+#1:
+asdasdads
+asdasdasd
+foo
+bar
+#{red}asdasdasdasd asdasdads
+#{nc}What shall I do?
+(1) Go to the pub
+(2) Go to sleep
+#Option-1-123
+#Option-2-75
+#:
+
+#123:
+ojhjhkjh
+lkjlkjlkj
+What is your name?
+Enter-1
+blblblblbl
+#wait-3
+sdsfdsdf
+(1) asdasdads
+(2) asss
+(3) aaaa
+#Option-1-1
+#Option-2-123
+#Option-3-666
+#:
+
+#666:
+The End
+#:
