@@ -305,7 +305,7 @@ done
 
 trap cleanup EXIT
 trap hideinput CONT
-trap '' INT TERM
+trap '' QUIT INT TERM
 hideinput
 # Initializing room number 1 as starting point at the beginning.
 endFlag="#:"
