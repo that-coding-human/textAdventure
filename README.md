@@ -25,3 +25,6 @@ And finally the best reason why this exists: Curiosity. I wanted to know how thi
 # I wrote an adventure, can I share it?
 Sure. Just create pull request and include the adventure file. I am happy to add it here.
 If you are not tech savy, just open issue for this project and add the file/content there. I can add it to the repository manually for you.
+
+# What License do you use to publish it?
+It will definitely be an open source license. I do not know exactly which one. Either a creative commons license or some like the EUPL or Mozilla License. Still looking in to it. 
