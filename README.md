@@ -11,10 +11,10 @@ The syntax for the adventure files supports the following features:
 # Are there enhancements planned?
 Yes definitely. 
 For example more comprehensive input options (e.g. for working with variable character names, or enabling more sophisticated riddles where the user needs to input a password etc.)
-Another Idea I am working on is to make this playable using SSH, so you can put it on a server, create a user that automatically gets "trapped" in the adventure when he connects via SSH.
+Another idea I am working on is to make this playable using SSH, so you can put it on a server and create a user that automatically gets "trapped" in the adventure when he connects via SSH.
  
 # Why does this exist?
-I found a lot of text adventure code out there. But most is build for working only locally or being played via the old telnet. I wanted to create a universal text adventure "framework", that can:
+I found a lot of text adventure code out there. But most has been built for working only locally or being played via the old telnet. I wanted to create a universal text adventure "framework", that can:
 - run different adventures based on input files that can be shared with others
 - have structured input files that can be read by regular people who just want to write an adventure without too much knowledge about technical formats like json or xml. 
 - provide more functionality in the input files to work with (colors, waiting actions, etc.)
