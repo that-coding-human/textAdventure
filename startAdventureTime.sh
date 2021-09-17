@@ -244,7 +244,7 @@ runSequence() {
                 # If all checks have been passed, and we did not exit 1 here, the correctInput flag should be true.
                 # If it is not true, one of the above checks for valid input have been failed, and the user is asked again to enter a valid input.
                 if [[ "$correctInput" != "true" ]]; then
-                        printLine  "I do not understand. Please tell me which option number you mean."
+                        printLine  "I do not understand. Please tell me which option number you mean. Just type the number."
                 fi
         done
         cleanup

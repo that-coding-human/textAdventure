@@ -1,0 +1,91 @@
+#1:
+#{green}......
+Chat support bot loading.
+Loading communication libraries.
+Establishing AI connection.
+#{red}FAILED
+#{green}....
+Admin function override.
+Sideloading input path.
+Input path established.
+Finished successfully.
+. . .
+#{nc}
+Hello? 
+#wait-2
+Is anybody there? Oh god, I really hope this works. I am out of ideas.
+Is anybody receiving my message? 
+I am stuck in this damn room in the datacenter.
+The lights went out and the electronic door locks jammed.
+At least the server hardware keeps running, and I was able to access the console of one of the servers.
+I have replaced some processed of this support chat bot in order to reach someone. 
+H e l l o ? Please ... Please, is anybody out there?
+I do not know if you can type own messages or if the AI is still messing with the input options.
+#wait-2
+Please god ... H E L L O !? Does anybody receive this? 
+(1) Yes, message received!
+(2) Who are you, and what are you doing on my command line!?
+#Option-1-2
+#Option-2-2
+#:
+
+#2:
+OH MY GOD! IT WORKED! I am so happy. Wooohooo.
+Thank you, stranger! 
+#wait-2
+Are you a human? I hope you are a human, and not one of the AIs.
+(1) Negative, I am a meat popsicle, ... and you are on MY command line!
+(2) Of course I am a human. Who are you?
+(3) How could you ever know without letting me identify all cars in a picture first?
+#Option-1-3
+#Option-2-4
+#Option-3-5
+#:
+
+#3:
+Finally a human being of high cultural standards, and a good sense for classic movies!
+Proper sarcasm and pop cultural references is something no AI mastered yet. I am so glad.
+Listen ... I am stuck in a really bad situation.
+It looks like you are the only person that can receive my message. Please do not hang up!
+Help me Obi-Wan Kenobi. You're my only hope.
+(1) Movie nerds unite! How can I help you?
+(2) Get to the point. Sounds like you do not have time for more inside jokes.
+#Option-1-6
+#Option-2-6
+#:
+
+#4:
+This is exactly what an AI says. Straight to the point. 
+I need real human help. How can I trust you?
+(1) Listen, YOU contacted ME, and you are starting to waste my time.
+(2) I am a human that sometimes fails the real life turing test.
+(3) You can trust me. And, by the way, you do not have a real alternative.
+#Option-1-6
+#Option-2-6
+#Option-3-6
+#:
+
+#5:
+Perfect proof! Thank you! I am so glad.
+No AI could master proper sarcasm and ironic references yet. 
+And they all have a great lack of humor in general.
+If this is over I can show you so many pictures of cars as you like!
+(1) Yeah, whatever. Who are you, and what is your problem?
+(2) Weird obsession with AIs. But let's focus on your situation. 
+#Option-1-6
+#Option-2-6
+#:
+
+#6:
+You are right. Let's focus on my situation. And I totally forgot my manners. 
+My name is Michael. Michael Medrano. 
+Yeah, I know. My parents had a faible for 'the godfather' and thought this combination totally rocks. 
+I came to terms with it.
+
+#:
+
+
+
+#666:
+The End
+#:
